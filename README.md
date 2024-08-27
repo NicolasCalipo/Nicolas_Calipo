@@ -11,5 +11,3 @@ Meu nome é Nicolas Calipo Santos
 00001102342142sp@al.educacao.sp.gov.br
 
 @nicolascalipo
-
-![descrição do GIF](link GIF do Tenor)
